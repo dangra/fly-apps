@@ -1,0 +1,7 @@
+# fly.toml file generated for dangra-t5 on 2023-03-10T22:52:30Z
+
+app = "dangra-t5"
+primary_region = "ord"
+
+[deploy]
+  release_command = "/releasecommand.sh"

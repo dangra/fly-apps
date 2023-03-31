@@ -1,0 +1,5 @@
+# fly.toml file generated for dangra-t8 on 2023-03-13T14:58:29Z
+
+app = "dangra-t8"
+kill_timeout = 0
+primary_region = "ord"
